@@ -1,0 +1,26 @@
+{
+  "name": "dev-toolchain-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammyhu22/dev-toolchain-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammyhu22/dev-toolchain-example/issues"
+  },
+  "homepage": "https://github.com/tammyhu22/dev-toolchain-example#readme",
+  "dependencies": {
+    "p5": "^1.5.0",
+    "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
